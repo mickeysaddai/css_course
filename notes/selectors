@@ -1,0 +1,10 @@
+element selectors
+class selectors - applied to specific items class="" .sometext{}
+id selector  - id = "" #sometext{}
+
+
+Specificity -- if you have multiple selectors with a specified attriute what will be dominant/
+inline style > id > class > element
+
+By conveniton classes are meant to be used multiple times 
+id is supposed to be used for one single element
